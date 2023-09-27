@@ -1,0 +1,45 @@
+
+body {
+    width: 90%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    border: 1px solid lightgrey;
+    display: flex;
+    justify-content: center;
+}
+
+.container__form {
+    width: 90%;
+    height: 90%;
+    margin: 20px;
+    padding: 20px;
+}
+
+.separation {
+    border-bottom: 1px solid lightgray;
+}
+
+.card__info {
+    margin-bottom: 5px;
+}
+
+.alert {
+    width: 95%;
+    font-weight: 500;
+}
+
+.container__buttons {
+    background: whitesmoke;
+    display: flex;
+    justify-content: flex-end;
+    border-top: 1px solid lightgray;
+
+}
+
+.container__buttons button {
+    margin: 10px 5px;
+}
