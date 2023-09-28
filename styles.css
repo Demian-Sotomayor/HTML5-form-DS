@@ -12,6 +12,7 @@ form {
     border: 1px solid lightgrey;
     display: flex;
     justify-content: center;
+    overflow: hidden;
 }
 
 .container__form {
