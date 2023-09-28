@@ -67,7 +67,15 @@ form {
 
 .methods {
     background: grey;
-    width: 30%;
-    padding: 8px;
+    width: 35%;
+    padding: 10px;
     border-radius: 5%;
+    display: inline-block;
+    margin: 10px 0;
+}
+
+i {
+    color: white;
+    padding: 0 10px;
+    margin: 0 2px;
 }
